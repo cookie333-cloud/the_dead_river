@@ -95,20 +95,6 @@ style frame:
 ##
 ## https://www.renpy.org/doc/html/screen_special.html#say
 
-screen tooltip():
-    if tooltip:
-        frame:
-            style "tooltip_frame"
-            text tooltip
-            xalign 0.5
-            yalign 0.1
-
-style tooltip_frame is default
-style tooltip_frame:
-    background "#333c"
-    padding (10, 5)
-    xmaximum 400
-
 screen say(who, what):
 
     window:

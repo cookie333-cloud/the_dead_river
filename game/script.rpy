@@ -9,8 +9,8 @@ define b = Character('Бабушка')
 define f = Character('Фермер')
 define m = Character('Молодая мама')
 define audio.g_voice1 = "audio/voice/g_voice1.opus"
-image city = "city.png"
-image fun = "fun.png"
+image city = "bg/city.png"
+image fun = "bg/fun.png"
 # Вместо использования оператора image можете просто
 # складывать все ваши файлы изображений в папку images.
 # Например, сцену bg room можно вызвать файлом "bg room.png",
