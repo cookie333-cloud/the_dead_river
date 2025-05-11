@@ -1,8 +1,8 @@
 # The Dead River
 
 Welcome to the repository for my novel! This project contains the text of the novel, along with associated artworks, voiceovers, and music. Below are the details regarding the licensing of the various components of this project.
-License Information
-Novel Text
+
+## License Information
 
 The code and text of the novel are licensed under the GNU General Public License v3.0 (GPL-3.0). This means you are free to use, modify, and distribute the text, provided that any derivative works are also licensed under the same terms.
 
