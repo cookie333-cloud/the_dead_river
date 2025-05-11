@@ -2,8 +2,8 @@
 
 # Определение персонажей игры.
 define g = Character('Георгий', color="#b4befe")
-define p = Character('Министр', color="#f38ba8")
-define a = Character('Жена', color="#cba6f7")
+define p = Character('Министр', color="#cba6f7")
+define a = Character('Настя', color="#f38ba8")
 define audio.g_voice1 = "audio/voice/g_voice1.opus"
 image city = "city.png"
 image fun = "fun.png"
@@ -38,9 +38,11 @@ label start:
     "ТЕБЕ"
     "нужно это решить"
     stop music fadeout 3.0
+
 python:
     name = renpy.input("Как тебя зовут?")
     name = name.strip() or "Георгий"
+
 label continue:
     with dissolve
     show fun

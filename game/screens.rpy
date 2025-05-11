@@ -37,6 +37,7 @@ style label_text is gui_text:
     properties gui.text_properties("label", accent=True)
 
 style prompt_text is gui_text:
+    xalign 0.5
     properties gui.text_properties("prompt")
 
 
@@ -155,7 +156,7 @@ style say_label:
 style say_dialogue:
     properties gui.text_properties("dialogue")
 
-    xpos gui.dialogue_xpos
+    xalign 0.5
     xsize gui.dialogue_width
     ypos gui.dialogue_ypos
 
