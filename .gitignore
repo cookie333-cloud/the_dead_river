@@ -4,3 +4,4 @@ game/cache/
 game/saves/
 game/*.rpyc
 project.json
+traceback.txt
