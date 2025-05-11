@@ -142,7 +142,7 @@ label case_babushka:
     jump after_case
 
 label case_mother:
-    scene office_mother with dissolve
+    #scene office_mother with dissolve
     show mother at left
     m "Здравствуйте, у меня ребёнок заболел — сыпь после купания, вода мутная, пахнет химией. Врач говорит, что это из-за воды. Что нам делать?"
     menu:
@@ -176,7 +176,7 @@ label after_case:
             jump case_farmer
 
 label case_factory_worker:
-    scene office_factory_worker with dissolve
+    #scene office_factory_worker with dissolve
     show factory_worker at left
     # Можно добавить изображение рабочего, например: show factory_worker at left
     # Если нет картинки, просто используйте текст
@@ -212,7 +212,7 @@ label case_factory_worker:
     jump after_case2
 
 label case_farmer:
-    scene office_farmer with dissolve
+    #scene office_farmer with dissolve
     show farmer at left
     f "Здравствуйте, я фермер. Говорят, что мы виноваты в отравлении воды, но это всё неправда! Мы используем только разрешённые препараты."
     menu:
@@ -245,7 +245,7 @@ label after_case2:
             jump check_reports_assistant
 
 label check_reports:
-    scene office_reports with dissolve
+    #scene office_reports with dissolve
     a "Вот отчёты. Смотрите, тут странные расхождения — по документам всё чисто, а по анализам — превышение в 10 раз."
     menu:
         "Вызвать полицию":
