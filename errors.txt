@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "<unknown>", line 1: invalid syntax
+    "audio/ost/main.ogg" volume 0.8
+                         ^^^^^^
+
+Ren'Py Version: Ren'Py 8.4.0.25051102+nightly
+Sun May 11 13:03:46 2025

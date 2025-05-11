@@ -1,0 +1,40 @@
+2025-05-11 10:04:55 UTC
+Linux-6.14.6-2-cachyos-x86_64-with-glibc2.41
+Ren'Py 8.4.0.25051102+nightly
+
+Early init took 34 ms
+Loading error handling took 13 ms
+Loading script took 53 ms
+Loading save slot metadata took 13 ms
+Loading persistent took 0 ms
+Running init code took 24 ms
+Loading analysis data took 2 ms
+Analyze and compile ATL took 1 ms
+Reloading save slot metadata took 2 ms
+Backing up script files to '/home/sehaxe/.renpy/backups/The Coffin OF Dead River':
+Dump and make backups took 27 ms
+Cleaning cache took 0 ms
+Making clean stores took 0 ms
+Initial gc took 27 ms
+DPI scale factor: 1.000000
+Creating interface object took 0 ms
+Init translation took 0 ms
+Cleaning stores took 0 ms
+Load screen analysis took 0 ms
+Analyze screens took 7 ms
+Save screen analysis took 8 ms
+Save pyanalysis took 0 ms
+Save bytecode took 16 ms
+Running _start took 1 ms
+Interface start took 305 ms
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA GeForce RTX 4060 Ti/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 570.144'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1602, 901) drawable=(1602, 901)
+Maximum texture size: 4096x4096
