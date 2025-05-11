@@ -3,4 +3,4 @@ log.txt
 game/cache/
 game/saves/
 game/*.rpyc
-
+project.json
