@@ -8,7 +8,7 @@ The code and text of the novel are licensed under the GNU General Public License
 
     License: GPL-3.0
 
-## Artworks, Voiceovers, and Music
+### Artworks, Voiceovers, and Music
 
 All artworks, voiceovers, and music included in this repository are licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0). This allows you to share and adapt the materials, as long as you give appropriate credit, provide a link to the license, and indicate if changes were made. You may also distribute derivative works under the same license.
 
