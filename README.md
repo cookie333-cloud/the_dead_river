@@ -20,7 +20,7 @@ English: All artworks, voiceovers, and music included in this repository are lic
 
     Лицензия: CC BY-SA 4.0
 
-## 🤝 Contribution Guidelines | Улучшение
+# 🤝 Contribution Guidelines | Улучшение
 
 English: If you would like to contribute to this project, please feel free to submit a pull request or open an issue. Contributions are welcome, and I appreciate your interest in helping to improve this project!
 
