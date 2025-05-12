@@ -2,8 +2,8 @@
 
 ## 🌐 Языки
 
-- [English] (README.md)
-- [Русский] (README_RU.md)
+- [English](README.md)
+- [Русский](README_RU.md)
 
 ## 📜 Информация о Лицензии
 
